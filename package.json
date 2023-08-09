@@ -3,6 +3,11 @@
   "displayName": "Texture",
   "description": "Texture VS Code Theme",
   "version": "0.0.1",
+  "publisher": "Texture",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TextureHQ/vscode-texture-theme.git"
+  },
   "engines": {
     "vscode": "^1.81.0"
   },
