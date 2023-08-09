@@ -2,7 +2,7 @@
   "name": "texture-vscode-theme",
   "displayName": "Texture",
   "description": "Texture VS Code Theme",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "Texture",
   "icon": "icon.png",
   "repository": {
