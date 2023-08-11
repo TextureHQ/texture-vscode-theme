@@ -7,7 +7,7 @@
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TextureHQ/vscode-texture-theme.git"
+    "url": "https://github.com/TextureHQ/texture-vscode-theme.git"
   },
   "engines": {
     "vscode": "^1.81.0"
